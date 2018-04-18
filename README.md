@@ -1,6 +1,8 @@
 graphs
 ===========
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/andrewcnorman/graphing-matplotlib/master)
+
 This repository contains an introduction to plotting graphs in Python using the matplotlib package.
 
 The emphasis is on the basic graphs of experimental data required in A-level physics.
